@@ -32,11 +32,13 @@ This lab could be deplyed standalone in a single node but for better performance
     server   Ready      control-plane,master   10d    v1.22.7+k3s1
  
  -----------------------------------------------------deploy helm packager manager -------------------------------------------
+ 
  #3- Install helm:
 
     curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
     chmod 700 get_helm.sh
     ./get_helm.sh
+    
 -----------------------------------------------------deploy Prometheus-operator/garafana -------------------------------------   
  #4- Install Prometheus-operator/garafana
  
