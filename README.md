@@ -1,6 +1,6 @@
 # LOGGING stack deployement 
 
-this work is a part of my final study  project in order to obtain National diploma of Telecom & IT  scheduled for next july 2022 .
+this work is a part of my final study  project in order to obtain National engineering diploma of Telecom & IT  scheduled for next july 2022 .
 
 Part-name: Monitoring-Zone 
 
